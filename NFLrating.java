@@ -1,5 +1,4 @@
 /* Name : Osama Bin Basit
-   U# : U39050886 
    Description:This program takes input from the user and calculates
                the NFL passer rating for a NFL Athlete. The rating
                is then displayed along with the player name. */
