@@ -1,6 +1,5 @@
 /*Grapevine Calculator Activity
   Name: Osama Bin Basit
-  U#: 39050886
   Description: This program takes in values from the user like row length, space 
                a post takes and spaces between vines and makes calculations to inform
                a vineyard owner of how many grapevines will fit in that row.
