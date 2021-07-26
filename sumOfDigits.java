@@ -1,5 +1,4 @@
 /* Name : Osama Bin Basit
-   U# : U39050886 
    Description:This program asks the user for a number between 0 and 1000 
                and adds all the digits in the number and outputs the sum. */
 
