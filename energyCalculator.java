@@ -1,7 +1,6 @@
 /* Name : Osama Bin Basit
-   U# : U39050886 
    Description:This program asks the user the mass of water, initial and final
-               temperatures and calculates the amount of energy and displays it\
+               temperatures and calculates the amount of energy and displays it
                to the user */
 
 import java.util.Scanner;
